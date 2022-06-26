@@ -9,7 +9,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Yannick San-A-Jong
 
 # --- List of links in the navigation bar --- #
 
@@ -42,10 +42,10 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: ysanajong
+  twitter: yannicksanajong
   patreon: DeanAttali
-  youtube: c/daattali
+  youtube: yannicksanajong
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
